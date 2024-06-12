@@ -1,0 +1,18 @@
+1. Installation Install NGINX, MySQL, and PHP on the CentOS Server provided
+
+2 Virtual Host Creation Create a virtual host on the server
+
+3 WordPress Installation Install a WordPress website on the created virtual host
+
+opon completion of the taskaccessing the provided server ipvia a web browser should display the WordPress website you have installed.
+
+
+
+Ensure that nginx MySQL, and PHP are properly configured and running on the server 
+Set up a virtual host to host the WordPress website
+
+-Install and configure WordPress on the created virtual host
+
+-Test by accessing the server's IP address via a web browser to confirm that the WordPress website is displayed
+
+help me to do this in centos, help me to this start to end with full support  
